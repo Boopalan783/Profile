@@ -1,0 +1,53 @@
+#color{
+    color: green;
+    font-size: 30px;
+ 
+    
+ }
+ #contact{
+     height: auto;
+     width: auto;
+     color:aliceblue;
+     border: 1px solid black;
+     padding: 3px;
+     background-color: yellow;
+     font-size: 20px;
+     align-items: center;
+     justify-content: center;
+ }
+ .container{
+     padding: 10px;
+     border: 1px solid whitesmoke;
+     background-color:whitesmoke;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     text-align: end;
+    
+ }
+ .item{
+     font-size: 20px;
+     align-items: center;
+     justify-content: center;
+ 
+ }
+ a:hover{
+     color: rgb(239, 5, 5);
+ }
+ a {
+     color: grey;
+     text-decoration: none;
+     font-size: 15px;
+     font-weight: bold;
+ }
+ .home{
+     padding: 10px;
+     height: 400px;
+     color:white;
+     border: 1px solid whitesmoke;
+     background-color: black;
+     display: flex;
+     flex-direction:column;
+     justify-content: space-around;
+     align-items: center;
+ }
